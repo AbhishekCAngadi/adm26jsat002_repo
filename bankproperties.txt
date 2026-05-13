@@ -1,0 +1,5 @@
+bank.name=HDFC
+bank.address=Chennai
+bank.cname=Srinu
+bank.accno=11111
+bank.acctype=Saving
